@@ -1,0 +1,25 @@
+body{
+  background-image:url('img/light-bg1.png');
+  text-align:center;
+}
+h1 {
+  font-size:5em;
+  text-align: center;
+ font-family: 'Permanent Marker', cursive;
+}
+.start{
+  display:block;
+  background-color: blueviolet;
+  color:white;
+  width:5em;
+  height:5em;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:5em;
+  line-height:5em;
+}
+.number{
+  font-size:4em;
+  width:7em;
+  text-align:center;
+}
